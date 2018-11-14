@@ -1,0 +1,46 @@
+
+article {
+    background-color: #EA001B;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    font-size: 40px;
+}
+
+span {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.main-header {
+    font-family: 'Oswald', sans-serif;
+    font-size: 70px;
+    color: white;
+    text-align: center;
+}
+
+.headshot {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.my_fav {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.tribute {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: right;
+
+}
